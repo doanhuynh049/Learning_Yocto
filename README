@@ -1,0 +1,4 @@
+git clone git@github.com:doanhuynh049/Learning_Yocto.git
+git checkout <branch-name>
+git submodule init
+git submodule update 
